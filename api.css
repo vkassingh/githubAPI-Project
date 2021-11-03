@@ -1,0 +1,30 @@
+*{
+    font-family: montserrat;
+  }
+  
+  #myBtn{
+    background: linear-gradient(264.95deg, rgba(255, 252, 252, 0.2) 0%, rgba(255, 252, 252, 0) 54.06%), linear-gradient(267.12deg, rgba(251, 254, 83, 0.3) 48.01%, rgba(255, 255, 255, 0) 92.65%), #EE520F;
+              
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 65px;
+    font-style: normal;
+    font-weight: normal;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 160px;
+    font-size: 1.05rem;
+    height: 35px;
+    border-radius: 20px;
+  
+  }
+  
+  #result{
+    height:200px; 
+    width:500px;
+    padding-left:15px;
+    padding-right:15px;
+    border: 1px solid grey;
+    border-radius:10px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
